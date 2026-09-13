@@ -4,4 +4,4 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=rediduck&langs_count=4&theme=great-gatsby)](https://github-stats-extended.vercel.app/api/top-langs?username=rediduck&langs_count=4&theme=great-gatsby)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rediduck&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rediduck)](https://github.com/ashutosh00710/github-readme-activity-graph)
