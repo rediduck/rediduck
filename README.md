@@ -1,4 +1,3 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=rediduck)](https://github.com/stats-organization/github-stats-extended)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=rediduck&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=rediduck&include_all_commits=true&theme=ambient_gradient)
